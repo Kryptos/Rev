@@ -9,11 +9,11 @@ If you want to contribute to the project, we use git as our source control solut
 
 To clone the project use
 
-    $ git clone https://github.com/Kryptos/RevFramework.git
+    $ git clone https://github.com/Kryptos/Rev.git
 
 To make pull requests you first add the remote upstream
 
-    $ git remote add upstream https://github.com/Kryptos/RevFramework.git
+    $ git remote add upstream https://github.com/Kryptos/Rev.git
 
 and fetch it to the upstream
 
